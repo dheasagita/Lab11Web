@@ -51,6 +51,14 @@ Langkah 1 - Membuat Route
   ![F](https://user-images.githubusercontent.com/81453793/122226385-21343d80-cee0-11eb-9567-b849e51365f5.jpg)
 
 
+![Screenshot (22)](https://user-images.githubusercontent.com/81453793/122227388-06ae9400-cee1-11eb-966d-c3009049fa13.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/81453793/122227397-08785780-cee1-11eb-8fa2-22f33cc5ba2b.png)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/81453793/122227406-09a98480-cee1-11eb-9320-75a3b9105cfb.png)
+![i](https://user-images.githubusercontent.com/81453793/122227858-7a50a100-cee1-11eb-9915-ee22b79bdbbf.jpg)
+![J](https://user-images.githubusercontent.com/81453793/122227866-7cb2fb00-cee1-11eb-8f34-d0082c499f00.jpg)
+
 
 
 
