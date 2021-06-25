@@ -57,9 +57,59 @@ Langkah 1 - Membuat Route
 ![i](https://user-images.githubusercontent.com/81453793/122227858-7a50a100-cee1-11eb-9915-ee22b79bdbbf.jpg)
 ![J](https://user-images.githubusercontent.com/81453793/122227866-7cb2fb00-cee1-11eb-8f34-d0082c499f00.jpg)
 
+# PRAKTIKUM 12 (FRAMEWORK LANJUTAN - CRUD)
 
-  
-  
+Nama : Dhea Sagita 
+NIM  : 311910123
+
+## Laporan Praktikum
+
+### Buatlah Database seperti ini:
+![Screenshot (33)](https://user-images.githubusercontent.com/81453793/123438349-cc3ca980-d5fa-11eb-90bf-b433b84bdd4f.png)
+
+
+### Konfigurasi Database
+![Screenshot (29)](https://user-images.githubusercontent.com/81453793/123432635-c93eba80-d5f4-11eb-8fca-4ba291a31e47.png)
+
+
+ ### Membuat Model
+ ![Screenshot (30)](https://user-images.githubusercontent.com/81453793/123433157-57b33c00-d5f5-11eb-933b-a799f98517cb.png)
+
+
+### Membuat Controller
+![Screenshot (31)](https://user-images.githubusercontent.com/81453793/123433931-2850ff00-d5f6-11eb-9a7f-c12859733c56.png)
+
+
+### Membuat View
+![Screenshot (32)](https://user-images.githubusercontent.com/81453793/123434701-f5f3d180-d5f6-11eb-84df-68a957066061.png)
+
+
+Tidak ada data karena database kosong
+![K](https://user-images.githubusercontent.com/81453793/123438577-060db000-d5fb-11eb-810b-2a02707ca46b.jpg)
+
+Tambahkan data pada database untuk ditambahakan datanya.
+![Screenshot (34)](https://user-images.githubusercontent.com/81453793/123438723-33f2f480-d5fb-11eb-88ec-5315676b6ab0.png)
+
+Maka akan muncul seperti ini
+![L](https://user-images.githubusercontent.com/81453793/123439063-8df3ba00-d5fb-11eb-8a3e-2eb3907652c2.jpg)
+
+### Membuat Tampilan detail artikel
+![Screenshot (35)](https://user-images.githubusercontent.com/81453793/123439677-2be78480-d5fc-11eb-8098-6b170eee93bb.png)
+
+### Membuat View Detail
+![Screenshot (36)](https://user-images.githubusercontent.com/81453793/123440389-ed9e9500-d5fc-11eb-9b29-4de88b033465.png)
+
+### Membuat Route
+![Screenshot (37)](https://user-images.githubusercontent.com/81453793/123440701-440bd380-d5fd-11eb-8425-6b26cad69138.png)
+
+Maka Akan muncul tempilan seperti ini;
+![M](https://user-images.githubusercontent.com/81453793/123440831-6867b000-d5fd-11eb-9ff0-e452e1182e99.jpg)
+
+
+
+
+
+
 
 
 
