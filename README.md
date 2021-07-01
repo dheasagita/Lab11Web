@@ -34,6 +34,16 @@ Maka Pesan Kesalahan akan ditampilkan
 ![E](https://user-images.githubusercontent.com/81453793/122225990-bbe04c80-cedf-11eb-8a0a-b40349d5f777.jpg)
 
 
+Kemudian buat file admin_index.php dalam folder (/app/Views/artikel/) untuk tampilan halaman admin.
+![Screenshot (38)](https://user-images.githubusercontent.com/81453793/124137530-f5a07e00-daaf-11eb-9580-093cb8f73b2f.png)
+
+Menu admin dapat diakses dengan alamat http://localhost:8080/admin/artikel
+![N](https://user-images.githubusercontent.com/81453793/124140189-7791a680-dab2-11eb-8726-9ee2071e24db.jpg)
+
+
+
+
+
 Langkah 1 - Membuat Route
 
     Router terletak pada file app/config/Routes.php
