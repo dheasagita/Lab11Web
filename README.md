@@ -115,6 +115,13 @@ Maka akan muncul seperti ini
 Maka Akan muncul tempilan seperti ini;
 ![M](https://user-images.githubusercontent.com/81453793/123440831-6867b000-d5fd-11eb-9ff0-e452e1182e99.jpg)
 
+Kemudian buat file admin_index.php dalam folder (/app/Views/artikel/) untuk tampilan halaman admin. 
+![Screenshot (38)](https://user-images.githubusercontent.com/81453793/124143858-a9583c80-dab5-11eb-9bca-e821a6885499.png)
+
+Menu admin dapat diakses dengan alamat http://localhost:8080/admin/artikel
+![N](https://user-images.githubusercontent.com/81453793/124143941-bd9c3980-dab5-11eb-8d94-1df971af22c2.jpg)
+
+
 
 
 
