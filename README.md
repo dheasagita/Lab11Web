@@ -122,6 +122,33 @@ Menu admin dapat diakses dengan alamat http://localhost:8080/admin/artikel
 ![N](https://user-images.githubusercontent.com/81453793/124143941-bd9c3980-dab5-11eb-8d94-1df971af22c2.jpg)
 
 
+# Menambah Data Artikel
+
+![O](https://user-images.githubusercontent.com/81453793/124144367-179cff00-dab6-11eb-8027-b543742e5f42.jpg)
+
+Kemudian buat view untuk form tambah dengan nama form_add.php dalam folder (/app/Views/artikel/). SS17
+![p](https://user-images.githubusercontent.com/81453793/124144374-1966c280-dab6-11eb-87ad-cca22678d96c.jpg)
+
+Tampilannnya Seperti ini:
+![Q](https://user-images.githubusercontent.com/81453793/124144512-4024f900-dab6-11eb-888f-be9f4c6bc974.jpg)
+
+# Mengubah Data
+
+![R](https://user-images.githubusercontent.com/81453793/124144852-87ab8500-dab6-11eb-8d2a-c1e05be07478.jpg)
+
+![S](https://user-images.githubusercontent.com/81453793/124144861-89754880-dab6-11eb-96bc-39132782ba2f.jpg)
+
+![T](https://user-images.githubusercontent.com/81453793/124144928-96923780-dab6-11eb-9196-fcc0daffb945.jpg)
+
+# Menghapus Data
+
+![U](https://user-images.githubusercontent.com/81453793/124144982-a27df980-dab6-11eb-9b5c-ab69bcba31b8.jpg)
+
+
+
+
+
+
 
 
 
