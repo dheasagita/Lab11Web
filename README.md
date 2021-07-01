@@ -144,6 +144,19 @@ Tampilannnya Seperti ini:
 
 ![U](https://user-images.githubusercontent.com/81453793/124144982-a27df980-dab6-11eb-9b5c-ab69bcba31b8.jpg)
 
+## Pertanyaan dan Tugas
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
+Screnshootnya :
+![1](https://user-images.githubusercontent.com/81453793/124145744-436cb480-dab7-11eb-9a2e-16573edee892.jpg)
+![2](https://user-images.githubusercontent.com/81453793/124145750-45367800-dab7-11eb-9cae-5cbd7fb5eaa2.jpg)
+![3](https://user-images.githubusercontent.com/81453793/124145755-45cf0e80-dab7-11eb-8f93-0d189cb1caa1.jpg)
+![4](https://user-images.githubusercontent.com/81453793/124145760-4667a500-dab7-11eb-8296-195f7811e19d.jpg)
+![5](https://user-images.githubusercontent.com/81453793/124145765-4798d200-dab7-11eb-9c90-f0baed8ef7c4.jpg)
+![6](https://user-images.githubusercontent.com/81453793/124145766-48316880-dab7-11eb-9833-d405b6869870.jpg)
+![7](https://user-images.githubusercontent.com/81453793/124145767-48316880-dab7-11eb-871b-0a1d26c7a5a7.jpg)
+![8](https://user-images.githubusercontent.com/81453793/124145770-48c9ff00-dab7-11eb-93e5-e36e4773cfbb.jpg)
+
 
 
 
