@@ -187,6 +187,37 @@ Lalu buka CLI lagi dan ketik perintah berikut: php spark db:seed UserSeeder
 Maka ketika menekan logout dan konfirmasi, akan kembali ke halaman login. 
 ![9](https://user-images.githubusercontent.com/81453793/125096497-69b9d200-e0ff-11eb-8117-66999404ee89.jpg)
 
+# PRAKTIKUM 14 (PEMOGRAMAN WEB - PAGINATION DAN PENCARIAN)
+### Nama : Dhea Sagita 311910123 (TI.19.F1)
+
+
+## MEMBUAT PAGINATION
+![A](https://user-images.githubusercontent.com/81453793/125098650-69223b00-e101-11eb-965c-4aad6b19ec77.jpg)
+
+![B](https://user-images.githubusercontent.com/81453793/125098773-88b96380-e101-11eb-8640-fef343eb40a5.jpg)
+
+![C](https://user-images.githubusercontent.com/81453793/125098781-89ea9080-e101-11eb-994f-188f85748341.jpg)
+
+## MEMBUAT PENCARIAN
+![D](https://user-images.githubusercontent.com/81453793/125098980-c0281000-e101-11eb-9e5c-8beb1473417f.jpg)
+
+![E](https://user-images.githubusercontent.com/81453793/125098991-c1f1d380-e101-11eb-9d89-e94743b502af.jpg)
+
+![F](https://user-images.githubusercontent.com/81453793/125098995-c28a6a00-e101-11eb-88c1-f11dbf662765.jpg)
+
+## MEMBUAT UPLOAD GAMBAR
+![G](https://user-images.githubusercontent.com/81453793/125099118-e2ba2900-e101-11eb-9c05-ebc714493f8b.jpg)
+
+![H](https://user-images.githubusercontent.com/81453793/125099125-e483ec80-e101-11eb-876d-d695eee22841.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
