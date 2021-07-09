@@ -34,6 +34,45 @@ Maka Pesan Kesalahan akan ditampilkan
 ![E](https://user-images.githubusercontent.com/81453793/122225990-bbe04c80-cedf-11eb-8a0a-b40349d5f777.jpg)
 
 
+# PRAKTIKUM 13 (PEMOGRAMAN WEB - FRAMEWORK LANJUTAN - MODUL LOGIN)
+### Nama  : Dhea Sagita 311910123 (TI.19.F1)
+
+## 1. MEMBUAT MODEL USER
+![1](https://user-images.githubusercontent.com/81453793/125095621-93bec480-e0fe-11eb-8241-68c2afd9412b.jpg)
+
+## 2. MEMBUAT CONTROLLER USER
+![2](https://user-images.githubusercontent.com/81453793/125095743-b224c000-e0fe-11eb-8613-ba19bf4f8014.jpg)
+
+## 3. MEMBUAT VIEW LOGIN
+![3](https://user-images.githubusercontent.com/81453793/125095859-cbc60780-e0fe-11eb-85fe-40dcc682749b.jpg)
+
+## 4. MEMBUAT DATABASE SEEDER
+![4](https://user-images.githubusercontent.com/81453793/125095961-e4362200-e0fe-11eb-8cc0-c625c0a70f22.jpg)
+
+Buka file UserSeeder.php yang berada di lokasi direktori /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
+![5](https://user-images.githubusercontent.com/81453793/125096110-05970e00-e0ff-11eb-861b-6fabe6c57eb4.jpg)
+
+Lalu buka CLI lagi dan ketik perintah berikut: php spark db:seed UserSeeder
+![6](https://user-images.githubusercontent.com/81453793/125096199-19db0b00-e0ff-11eb-8ac2-970e52c2f28f.jpg)
+
+## 5. MEMBUAT AUTH FILTER
+![7](https://user-images.githubusercontent.com/81453793/125096298-35deac80-e0ff-11eb-8ec9-eab205322a91.jpg)
+
+## 6. MEMBUAT FUNGSI LOGOUT
+![8](https://user-images.githubusercontent.com/81453793/125096413-5149b780-e0ff-11eb-9b7a-6d26940fd713.jpg)
+
+Maka ketika menekan logout dan konfirmasi, akan kembali ke halaman login. 
+![9](https://user-images.githubusercontent.com/81453793/125096497-69b9d200-e0ff-11eb-8117-66999404ee89.jpg)
+
+
+
+
+
+
+
+
+
+
 Kemudian buat file admin_index.php dalam folder (/app/Views/artikel/) untuk tampilan halaman admin.
 ![Screenshot (38)](https://user-images.githubusercontent.com/81453793/124137530-f5a07e00-daaf-11eb-9580-093cb8f73b2f.png)
 
